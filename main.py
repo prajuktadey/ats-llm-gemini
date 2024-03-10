@@ -1,4 +1,3 @@
-pip install pdf2image[poppler]
 from dotenv import load_dotenv
 
 load_dotenv()
